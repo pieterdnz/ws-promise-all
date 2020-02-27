@@ -24,4 +24,4 @@ Promise.all([p1, p2]).then(messages =>
   messages.map(message => add.li(message))
 );
 
-add.li("log 3");
+add.li("log 3 ");
